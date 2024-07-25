@@ -113,13 +113,13 @@
     padding-right: 15px;
     border-radius: 30px;
     font-weight: bold;
-    margin-left: 600px;
 }
 #buy{
     font-family: Arial;
     text-align: center;
-    margin-top: 0;
+    margin-top: 10px;
     margin-bottom: 0;
+    
 }
 .price1 {
     font-size: 32px;
