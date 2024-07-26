@@ -1,0 +1,183 @@
+/* A */
+#uber{
+    color: white;
+    font-size: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    display: block;
+    border: 1px solid white;
+}
+#uber:hover{
+    opacity: 0.75;
+}
+#amazon{
+    color: black;
+    background-color: rgb(255, 216, 20);
+    width: 200px;
+    height: 40px;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+#amazon:hover{
+    background-color: rgb(242, 203, 8);
+}
+#github{
+    color: white;
+    background-color: rgb(46,164, 79);
+    width: 80px;
+    height: 40px;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+#github:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.22),0 17px 50px 0 rgba(0,0,0,0.19);
+    border: 1px solid black;
+}
+#bootstrap1{
+    color: white;
+    background-color: rgb(121,82, 179);
+    width: 95px;
+    height: 37px;
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    font-weight:bold;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 7px;
+    border: 1px solid white;
+}
+#bootstrap1:hover{
+    background-color: rgb(81, 31, 156);
+    font-weight: bolder;
+}
+#bootstrap2{
+    color: rgb(108,117, 125);
+    background-color: white;
+    width: 95px;
+    height: 37px;
+    display: inline;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 7px;
+    border: 1px solid rgb(108,117, 125);
+}
+#bootstrap2:hover{
+    background-color: rgb(108,117, 125);
+    color: white;
+    font-weight: bolder;
+}
+#linkedin1{
+    color: white;
+    background-color: rgb(10,102, 194);
+    width: 200px;
+    height: 35px;
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+#linkedin1:hover{
+    background-color: rgb(0, 82, 164);
+}
+#linkedin2{
+    color: rgb(10,102, 194);
+    background-color: white;
+    width: 70px;
+    height: 35px;
+    display: inline;
+    padding: 10px;
+    margin: 1px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid rgb(10,102, 194);
+}
+#linkedin2:hover{
+    background-color: rgb(226, 240, 254);
+    border-width: 2px;
+}
+
+
+/* B */
+a {
+    color: darkcyan;
+    font-size: 18px;
+    text-align: center;
+}
+a:hover{
+    color:orangered;
+}
+h3{
+    color: green;
+}
+p{
+    font-size: 18px;
+}
+#add{
+    color: black;
+    background-color: rgb(255, 216, 20);
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+#add:hover{
+    background-color: rgb(242, 203, 8);
+}
+#add:active{
+    opacity: 0.7;
+}
+#buy{
+    color: black;
+    background-color: rgb(224, 151, 78);
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+#buy:hover{
+    background-color: rgb(213, 117, 22);
+}
+#buy:active{
+    opacity: 0.7;
+}
