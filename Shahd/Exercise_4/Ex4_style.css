@@ -1,0 +1,118 @@
+ /* Part 1 : Lesson 4 Exercise  */
+ #subscribe {
+   background-color: rgb(210, 0, 0);
+   color: white;
+   border: none;
+   border-radius: 4px;
+   padding-top: 10px;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-bottom: 10px;
+   margin-right: 10px;
+   margin-left: 570px;
+ }
+
+ #join {
+   border-color: #487fd6;
+   background-color: white;
+   color: #487fd6;
+   border-radius: 4px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   padding-right: 18px;
+   padding-left: 18px;
+   margin-right: 10px;
+ }
+
+ #tweet {
+   background-color: #4c90ff;
+   color: white;
+   border: none;
+   border-radius: 30px;
+   font-weight: bold;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-right: 25px;
+   padding-left: 25px;
+   margin-right: 10px;
+ }
+
+ /* ---------------  Part 2 : Challenge Exercises --------------- */
+ a {
+   margin-left: 5px;
+ }
+
+ .btns {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 7px;
+   cursor: pointer;
+ }
+
+ /* ---------------------------------------------- */
+ #Stretch {
+   background-color: #017501;
+   border: none;
+   color: white;
+   padding-top: 12px;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-bottom: 12px;
+   font-size: 20px;
+   cursor: pointer;
+ }
+
+ #Stretch:hover {
+   transition:
+     padding-top 0.2s,
+     padding-right 0.1s;
+   padding-left: 35px;
+   padding-right: 35px;
+   padding-bottom: 18px;
+   padding-top: 18px;
+   font-size: 25px;
+ }
+
+ /* ---------------------------------------------- */
+ #Shadow {
+   background-color: #017501;
+   color: white;
+   box-shadow: 3px 3px 5px rgb(161, 155, 155);
+   border: none;
+   cursor: pointer;
+   font-size: 20px;
+   padding-left: 17px;
+   padding-right: 17px;
+   padding-top: 9px;
+   padding-bottom: 9px;
+   margin-top: 10px;
+ }
+
+ #Shadow:active {
+   box-shadow: none;
+   margin-top: 12px;
+   margin-left: 10px;
+ }
+ /* ---------------------------------------------- */
+ #div-btns button {
+  background-color: #017501; 
+  color: white;
+  font-size: 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 18px;
+  padding-left: 18px;
+  margin-right: 12px;
+}
+
+#div-btns button:hover {
+  padding-right: 25px;
+  padding-left: 25px;
+  transition:
+  padding-right 0.1s,
+  padding-left 0.1s;
+}

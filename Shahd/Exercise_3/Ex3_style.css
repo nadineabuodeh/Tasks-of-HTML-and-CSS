@@ -1,16 +1,3 @@
-/* =================== Exercises #1 & #2 - [ HTML Basics & CSS Basics ] ====================== */
-.a1 {
-  color: rgb(0, 113, 133);
-  font-size: 18px;
-  cursor: pointer;
-}
-
-.p-stock {
-  color: rgb(0, 118, 0);
-  font-size: 18px;
-  font-weight: bold;
-}
-
 .add-btn {
   background-color: rgb(255, 216, 20);
   height: 30px;
@@ -23,19 +10,6 @@
   margin-right: 12px;
 
 }
-
-.buy-btn {
-  background-color: rgb(255, 175, 68);
-  height: 30px;
-  border: none;
-  border-radius: 18px;
-  cursor: pointer;
-  width: 150px;
-  font-size: 15px;
-  font-weight: bold;
-  margin-left: 5px
-}
-
 .sign-btn {
   background-color: rgb(85, 163, 88);
   height: 38px;
@@ -125,10 +99,8 @@
   font-size: 15px;
   font-weight: bold;
 }
-
-/* ==================== Exercise #3 - [Hovers, Transitions, Shadows] ====================== */
-
-.req-btn:hover {
+/* ====================== [Hovers, Transitions, Shadows] ====================== */
+ .req-btn:hover {
   opacity: 0.8;
 }
 
@@ -171,4 +143,3 @@
 .buy-btn:active {
   opacity: 0.8;
 }
-/* ==================== Exercise #4 - [Chrome DevTools & CSS Box Model] ====================== */
