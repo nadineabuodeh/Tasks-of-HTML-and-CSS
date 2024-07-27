@@ -73,6 +73,7 @@ button:hover {
 }
 
 /* ============================================================ */
+/* Videos Container */
 .videos {
   display: flex;
   flex-direction: column;
