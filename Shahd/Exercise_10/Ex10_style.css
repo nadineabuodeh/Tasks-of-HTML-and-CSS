@@ -40,9 +40,7 @@ body {
   width: 60px;
   height: 60px;
   background-color: #009578;
-  /* Sample background color for circle images */
   object-fit: cover;
-  /* Ensures the images fit nicely in the circle */
   margin-right: 15px;
 }
 
@@ -89,7 +87,6 @@ button:hover {
 .video {
   display: flex;
   width: 600px;
-  /* Adjust based on actual image size */
   background-color: white;
   color: black;
   margin-bottom: 10px;
