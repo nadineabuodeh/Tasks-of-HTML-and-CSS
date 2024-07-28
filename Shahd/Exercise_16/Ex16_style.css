@@ -120,3 +120,12 @@ body {
 .profile-pic:hover .modal {
   display: block;
 }
+/* ------------------ */
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
