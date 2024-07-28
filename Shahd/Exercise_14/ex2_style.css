@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  padding-bottom: 9px;
+  font-weight: bold;
+  justify-content: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* ============================== */
+.flex-header {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 330px;
+}
+
+
+.buttons button {
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#message {
+  background-color: #9c9c9c;
+  color: rgb(0, 0, 0);
+}
+
+.buttons button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#message {
+  background-color: #9c9c9c;
+}
+
+.bar-left, .bar-right {
+  position: fixed;
+  top: 60px; 
+  width: 200px;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.bar-left {
+  left: 0;
+  background-color: rgb(85, 85, 85);
+
+}
+
+.bar-right {
+  left: 110px; 
+background-color: grey;
+}
+
+.imgs {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu ul li {
+  padding: 10px 0;
+}

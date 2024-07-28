@@ -16,7 +16,7 @@ body {
 .email {
   display: flex;
   align-items: center;
-  /* --> border bottom to split emails .. */
+  /* --> **border bottom to split emails .. */
   border-bottom: 1px solid #eee; 
   padding: 10px;
 }
